@@ -15,7 +15,7 @@ Follow these steps to download and use them in your environment:
 2. When the repo is done downloading, you will have access to every code in this repo from your desktop.
 3. Go to your Content page on ArcGIS Online.
 4. Click Add Content and upload the .ipynb file of the script you wish to bring into ArcGIS Online. It will automatically upload as a new notebook
-5. When the notebook has been uploaded, go to the Settings tab from the Overview tab. Find the section titled "Notebook Settings" and "Notebook Runtime" at the bottom of the page. Click the dropdown and select "ArcGIS Notebook Python 3 Standard - 5.0". If this is already selected, you can skip this step.
+5. When the notebook has been uploaded, go to the Settings tab from the Overview tab. Find the section titled "Notebook Settings" and "Notebook Runtime" at the bottom of the page. Click the dropdown and select "ArcGIS Notebook Python 3 Standard - 6.0". If this is already selected, you can skip this step.
 6. Open your new Notebook and edit accordingly to fit your need for your organization using the notes within the script. Remember to save often!
 7. Test your Notebook to ensure you have no errors.
 8. (Optional) Schedule a task to make your Notebook run automatically. See the <a href="https://doc.arcgis.com/en/arcgis-online/create-maps/prepare-a-notebook-for-automated-execution.htm">Esri Technical Document, <i>Schedule a notebook task</i></a> for more information.
