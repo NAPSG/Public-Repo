@@ -6,7 +6,7 @@ The scripts in this folder and designed to check each webmap for any unreachable
 1. Open any software to create an excel sheet (Microsoft Excel, Google Sheets, etc).
 2. In the very first cell, type "secret_key" as your first column header.
 3. In cell B1, type "secret_value" as your second column header.
-4. Place the name of your webhook into cell A3 under secret_key (remember what you put here as you will need to put it into the Check Layers in Webmaps script).
+4. Place the name of your webhook into cell A2 under secret_key (remember what you put here as you will need to put it into the Check Layers in Webmaps script).
 5. Place the webhook URL into cell B2 under secret_value. This script utilizes Microsoft Teams. To make an incoming Teams webhook, <a href="https://docs.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/add-incoming-webhook">follow the documentation here.</a>
 6. Save your document as a CSV, naming it "secrets.csv". Make sure you save it as just a Comma delimited CSV, not a CSV UTF-8 or any other type of CSV.
 
